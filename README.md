@@ -1,11 +1,11 @@
-#DOAutocompleteTextField
+# DOAutocompleteTextField
 
 DOAutocompleteTextField is a subclass of UITextField that provide the user with
 autocompleted text, similar to the URL bar on major browsers and Google Suggest.
 
 ![DOAutocompleteTextField Screenshot](https://github.com/doat/DOAutocompleteTextField/raw/master/screenshot.gif)
 
-#Usage
+# Usage
 
 Add DOAutocompleteTextField to your project, create an instance of it
 as you would create a UITextField and set the delegate.
@@ -48,11 +48,11 @@ or similar to the demo.
 
 DOAutocompleteTextField draws the completion text immediatlly after user input.
 
-#Known Issues
+# Known Issues
 
 * Completion position is still a bit off.
 * No way of detecting taps on autocomplete label.
 
 
-##Copyright
+## Copyright
 Copyright 2011 DoAT. All rights reserved. See LICENSE for more details.
